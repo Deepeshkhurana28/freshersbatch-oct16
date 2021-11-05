@@ -1,1 +1,2 @@
-This is assignments directory please read the file before proceeding further step.
+This is assignments directory. 
+Please read the file before proceeding further step.
