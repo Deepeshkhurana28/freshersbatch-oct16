@@ -1,3 +1,3 @@
-This is css assignments branch.
+This is jss assignments branch.
 Please read the file before proceeding further step.
 Hey! 
